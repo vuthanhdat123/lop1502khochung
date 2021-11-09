@@ -1,2 +1,2 @@
 # lop1502khochung
-chinh sua dong 2
+chinh 2
